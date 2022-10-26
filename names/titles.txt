@@ -1,0 +1,55 @@
+Visual Studio Code
+Sublime text
+Atom
+Vim
+Neovim
+Notepad++
+UltraEdit
+Brackets
+Aptana studio
+Emacs
+TextMate
+Bluefish
+Vi
+Komodo edit
+Nova
+SciTE
+Kate
+jEdit
+PSPad
+Crimson Editor
+EditPlus
+TextPad
+Smultron
+Caditor
+gedit
+ConTEXT
+Acme
+Alphatk
+Aquamacs
+Coda
+CudaText
+NEdit
+XEmacs
+The SemWare Editor
+SubEthaEdit
+Source Insight
+SlickEdit
+RJ TextEd
+PSPad
+JED
+GNU Emacs
+EmEditor
+Ace
+Arachnophilia
+Multi-Edit
+Script Editor
+CodeWright
+Epsilon
+JuffEd
+Kile
+Pe
+pluma
+Programmer's File Editor
+TeachText
+TopStyle
